@@ -13,7 +13,7 @@
 
 - create folder on disk;
 - open cmd and goto to new folder;
-- clone repository **git clone https://github.com/softservedata/ti006.git**
+- clone repository **git clone https://github.com/kolgenpav/EmailCheckApp.git**
 - change directory to **EmailCheckApp**;
 - check branch **git branch**
 - create new branch **git branch <NAME>**
