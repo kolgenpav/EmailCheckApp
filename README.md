@@ -3,7 +3,7 @@
  This is repository for Teacher`s TAQC
  Unit Test Assignment.
 
-### List of branches
+### List of branches:
 
 - master - template for new branches;
 - junit5 - EmailChecker testing with JUnit 5;
