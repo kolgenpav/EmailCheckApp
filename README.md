@@ -18,6 +18,9 @@
 - email has at least 2 domains;
 - top-level domain is at least 2 letters long. 
 
+### Test cases designing:
+![Modified Condition/Decision Condition Table](https://github.com/kolgenpav/EmailCheckApp/blob/master/EmailChecker%20MC-DC%20Table.JPG)
+
 ### Instruction. Create new branch
 
 - create folder on disk;
