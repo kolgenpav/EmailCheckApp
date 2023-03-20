@@ -19,7 +19,7 @@
 - top-level domain is at least 2 letters long. 
 
 ### Test cases designing:
-![Modified Condition/Decision Condition Table](https://github.com/kolgenpav/EmailCheckApp/blob/master/EmailChecker%20MC-DC%20Table.JPG)
+![Modified Condition/Decision Coverage Table](https://github.com/kolgenpav/EmailCheckApp/blob/master/EmailChecker%20MC-DC%20Table.JPG)
 
 ### Instruction. Create new branch
 
